@@ -1,0 +1,29 @@
+body {
+  margin-top: 1rem;
+}
+.canva {
+    margin: auto;
+    display: block;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: left;
+    width: 190px;
+    height: 120px;
+    padding: 2px;
+    font: 12px Helvetica, sans-serif;
+    background:lightskyblue;
+    border: 0px;
+    border-radius: 4px;
+    pointer-events: none;
+    color: white;
+}
+
+
+
+
+
+
+
+ 
