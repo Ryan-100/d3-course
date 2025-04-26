@@ -1,0 +1,20 @@
+.canva {
+    margin: auto;
+    display: block;
+    background: #3f3e3e;
+}
+
+.daca-text {
+    font-size: 26px;
+}
+.daca-title {
+    font-size: 20px;
+    margin: auto
+}
+
+.d3-tip {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}

@@ -1,0 +1,135 @@
+.canva {
+    margin: auto;
+    display: block;
+    
+    
+}
+
+body {
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    background: rgb(44, 44, 61)
+}
+div {
+    display: block;
+}
+#intro {
+    margin-top: 25px;
+}
+
+#legends span  {
+    color: white;
+}
+#sizeLegend {
+    position: absolute;
+    width: 380px;
+    display:inline-block;
+    font-weight: 200;
+    text-shadow: 0 1px 0 #fff;
+
+}
+
+#leftSizeLegend {
+    position: absolute;
+    top: 0px;
+    left: 118px;
+    width: 80px;
+    display:inline-block;
+    text-align: center;
+    font-weight: 200;
+    text-shadow: 0 1px 0 #fff;
+}
+
+#rightSizeLegend {
+    position: absolute;
+    top: 0px;
+    left: 315px;
+    width: 80px;
+    display:inline-block;
+    text-align: center;
+    font-weight: 200;
+    text-shadow: 0 1px 0 #fff;
+}
+
+#rightColorLegend {
+    position: absolute;
+    top: 0px;
+    left: 285px;
+    width: 80px;
+    display:inline-block;
+    text-align: center;
+    font-weight: 200;
+  text-shadow: 0 1px 0 #fff;
+}
+
+
+#colorLegend {
+    position: absolute;
+    left: 530px;
+    width: 380px;
+    display:inline-block;
+    font-weight: 200;
+  text-shadow: 0 1px 0 #fff;
+
+}
+
+#rightSizeLegend {
+    position: absolute;
+    top: 0px;
+    left: 315px;
+    width: 80px;
+    display:inline-block;
+    text-align: center;
+    font-weight: 200;
+    text-shadow: 0 1px 0 #fff;
+}
+
+.outer-margin {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+ #intro p {
+     margin-top: 0px;
+     max-width: 900px;
+     line-height: 160%
+ }
+
+ .title {
+     color: gray
+ }
+ p {
+    display: block;
+    color: white;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+p a {
+    color:orange;
+}
+
+
+.daca-text {
+    font-size: 26px;
+}
+.daca-title {
+    font-size: 20px;
+    margin: auto
+}
+
+.d3-tip {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+ 
